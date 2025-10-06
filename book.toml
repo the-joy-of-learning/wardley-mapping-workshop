@@ -1,0 +1,9 @@
+[book]
+authors = ["The Joy of Learning Team"]
+language = "fa"
+multilingual = true
+src = "src"
+title = "Wardley Mapping Workshop"
+
+[build]
+build-dir = "public"

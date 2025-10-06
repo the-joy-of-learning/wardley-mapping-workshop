@@ -1,1 +1,0 @@
-# wardley-mapping-workshop
