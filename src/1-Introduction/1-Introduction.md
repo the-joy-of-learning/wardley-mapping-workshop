@@ -1,3 +1,3 @@
-# 1-Introduction
+# 1-مقدمه
 
-A Wardley map is a map for business strategy.
+Wardley map نقشه استراتژی کسب و کار است.
